@@ -1,0 +1,8 @@
+dhbw
+matplotlib
+notebook
+numpy
+qdft
+resampy
+scikit-image
+scipy
